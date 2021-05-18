@@ -1,5 +1,8 @@
 ### Hi there I'm Theo👋
-I am a career changer, from health and exercise science, into technology. Currently focused on legal tech, but developing my website development skills as I go along. 
+I am a career changer, from health and exercise science, into law and technology. 
+
+I'm currently learning HTML/CSS/JS/Node 
+
 <!--
 **theodryden/theodryden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
